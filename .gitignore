@@ -36,6 +36,10 @@ volumes/
 # IDE / editor settings
 .vscode/
 .idea/
+.agents/
+.claude/
+.cursor/
+.devin/
 .DS_Store
 Thumbs.db
 
